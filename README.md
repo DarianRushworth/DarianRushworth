@@ -18,6 +18,7 @@ I love being around people and working as a team, Braai's (BBQ's) at my house...
 * Bootstrap
 
 :point_left: Contact me, always available!
+
 OR checkout my LinkedIn: https://www.linkedin.com/in/darian-errol-rushworth-2a082b18b/
 <!--
 **DarianRushworth/DarianRushworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
