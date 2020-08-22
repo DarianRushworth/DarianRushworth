@@ -1,8 +1,9 @@
 ## DARIAN RUSHWORTH:south_africa:
-<div style="float: right">
 ![DarianSunflower](https://github.com/DarianRushworth/DarianRushworth/blob/master/Animated%20GIF-downsized_large(1).gif)
-</div>
 
+I am a 24 year old, South African male, who now reseides in the Netherlands. I have been working in the hospitality industry for far to long and now 
+have challenged myself to acquire new knowledge within the web development industry. After 2 months I am putting out my first portfolio.[Jarmke](https://github.com/DarianRushworth/JarmkeFrontend)
+I love being around people and working as a team, BBQ's at my house... the African way. Any time I can get out and about I love being in nature and going for walks, I am also extremely pationiate about cooking and the creativity that goes into amazing meals.
 
 <!--
 **DarianRushworth/DarianRushworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
