@@ -1,5 +1,7 @@
 ### Hi there 👋
-![DarianSunflower](https://github.com/DarianRushworth/DarianRushworth/blob/master/Animated%20GIF-downsized_large(1).gif)
+![DarianSunflower](https://github.com/DarianRushworth/DarianRushworth/blob/master/Animated%20GIF-downsized_large(1).gif){: style="float: left"}
+
+This is Me Whatzzupp
 
 <!--
 **DarianRushworth/DarianRushworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
