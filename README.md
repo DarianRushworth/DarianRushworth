@@ -8,6 +8,8 @@ Find it here:  [Jarmke](https://github.com/DarianRushworth/JarmkeFrontend)
 
 I love being around people and working as a team, BBQ's at my house... the African way. Any time I can get out and about I love being in nature and going for walks, I am also extremely pationiate about cooking and the creativity that goes into amazing meals.
 
+:point_left: Contact me, always available!
+
 <!--
 **DarianRushworth/DarianRushworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
