@@ -1,6 +1,7 @@
 ## DARIAN RUSHWORTH:south_africa:
+<div style="float: right">
 ![DarianSunflower](https://github.com/DarianRushworth/DarianRushworth/blob/master/Animated%20GIF-downsized_large(1).gif)
-
+</div>
 
 
 <!--
