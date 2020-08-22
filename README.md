@@ -10,6 +10,14 @@ I love being around people and working as a team, Braai's (BBQ's) at my house...
 
 :point_left: Contact me, always available!
 
+### Known Technologies
+* Sequelize
+* Express
+* Stripe
+* Axios
+* React
+* Redux
+* Bootstrap
 <!--
 **DarianRushworth/DarianRushworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
