@@ -14,6 +14,7 @@ I love being around people and working as a team, Braai's (BBQ's) at my house...
 * Stripe
 * Axios
 * React
+* React-Native
 * Redux
 * Bootstrap
 
